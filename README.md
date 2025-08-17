@@ -4,6 +4,6 @@
 Clone this repo and install dependencies:
 
 ```bash
-git clone https://github.com/edduardomx/nobel-project.git
+git clone https://github.com/edduardomx/nobel-prize-project.git
 cd nobel-project
 pip install -r requirements.txt
